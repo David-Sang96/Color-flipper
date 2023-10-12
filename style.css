@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  text-align: center;
+  margin-top: 10rem;
+}
+.container{
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: antiquewhite;
+}
+button{
+  margin-top: 5rem;
+  padding:.5rem 2rem;
+  cursor: pointer;
+}
+
